@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 🤩 Opensource software , Open hardware
 - 🗣️ English , Українська
+- 📚 https://www.goodreads.com/user/show/125555581-greg
 
 
 <!--
