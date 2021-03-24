@@ -1,8 +1,9 @@
 ### Hi there 👋
-(1) sh scripts + system configuration
-(2) learning python
-(3) <3 OS/OH
-(4) Eng/Укр
+- 🤹 sh scripts , system configuration
+- 🌱 I’m currently learning python
+- 🤩 Opensource software , Open hardware
+- 🗣️ English , Українська
+
 
 <!--
 **gregg00/gregg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
