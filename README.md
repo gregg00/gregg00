@@ -4,7 +4,7 @@
 - 🤩 Opensource software , Open hardware
 - 🗣️ English , Українська
 - 📚 https://www.goodreads.com/user/show/125555581-greg
-- 📄🤩 https://bitcoinmagazine.com/culture/how-the-lighting-network-could-improve-encrypted-messaging , https://www.gnu.org/philosophy/free-hardware-designs.en.html
+- 📄🤩 https://bitcoinmagazine.com/culture/how-the-lighting-network-could-improve-encrypted-messaging , https://www.gnu.org/philosophy/free-hardware-designs.en.html , https://www.mpscholten.de/docker/2016/01/27/you-are-most-likely-misusing-docker.html
 
 <!--
 **gregg00/gregg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
