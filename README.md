@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🤹 sh scripts , system configuration
-- 🌱 I’m currently learning python and NIX(*)
+- 🌱 I’m currently learning Docker and NIX(*)
 - 🤩 Opensource software , Open hardware
 - 🗣️ English , Українська
 - 📚 https://www.goodreads.com/user/show/125555581-greg
