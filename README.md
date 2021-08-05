@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤹 sh scripts , system configuration
+- 🤹 Docker , system configuration
 - 🌱 I’m currently learning Docker and NIX(*)
 - 🤩 Opensource software , Open hardware
 - 🗣️ English , Українська
