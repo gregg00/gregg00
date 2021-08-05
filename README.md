@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤹 Docker , system configuration
+- 🤹 Docker , Linux
 - 🌱 I’m currently learning Docker and NIX(*)
 - 🤩 Opensource software , Open hardware
 - 🗣️ English , Українська
